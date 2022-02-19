@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>giraffa_png.rf.c303ef262527d2ce710aa9c30228b78c.jpg</filename>
+	<path>giraffa_png.rf.c303ef262527d2ce710aa9c30228b78c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>giraffa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>361</xmax>
+			<ymin>2</ymin>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

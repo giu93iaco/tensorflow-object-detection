@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>topo_png.rf.32709de51c53bfc3ec25ea5c5692dde8.jpg</filename>
+	<path>topo_png.rf.32709de51c53bfc3ec25ea5c5692dde8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>topo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>4</xmin>
+			<xmax>360</xmax>
+			<ymin>2</ymin>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

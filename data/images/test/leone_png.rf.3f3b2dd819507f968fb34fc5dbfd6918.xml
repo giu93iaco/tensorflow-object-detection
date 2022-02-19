@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>leone_png.rf.3f3b2dd819507f968fb34fc5dbfd6918.jpg</filename>
+	<path>leone_png.rf.3f3b2dd819507f968fb34fc5dbfd6918.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>361</xmax>
+			<ymin>5</ymin>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

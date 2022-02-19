@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>pinguino_png.rf.2835631167edf880ef60ccd269851511.jpg</filename>
+	<path>pinguino_png.rf.2835631167edf880ef60ccd269851511.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pinguino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>359</xmax>
+			<ymin>1</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

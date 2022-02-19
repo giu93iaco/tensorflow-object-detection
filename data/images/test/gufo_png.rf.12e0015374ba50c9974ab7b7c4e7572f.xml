@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>gufo_png.rf.12e0015374ba50c9974ab7b7c4e7572f.jpg</filename>
+	<path>gufo_png.rf.12e0015374ba50c9974ab7b7c4e7572f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gufo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>360</xmax>
+			<ymin>1</ymin>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>medusa_png.rf.871a9cf6bac73e8a414ed88d2cbfc244.jpg</filename>
+	<path>medusa_png.rf.871a9cf6bac73e8a414ed88d2cbfc244.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>medusa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>4</xmin>
+			<xmax>356</xmax>
+			<ymin>1</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
